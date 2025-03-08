@@ -1,5 +1,5 @@
 funkcja srednia
 
-funkcja wazona
+funkcja wazona (inne wartości)
 xddddd
 
