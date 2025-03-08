@@ -1,5 +1,5 @@
 funkcja srednia
 
-funkcja wazona
+funkcja wazona (wartości w ważonej)
 xddddd
 
