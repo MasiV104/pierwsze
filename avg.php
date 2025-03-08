@@ -1,0 +1,3 @@
+funkcja srednia
+
+funkcja wazona
